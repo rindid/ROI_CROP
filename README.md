@@ -32,7 +32,7 @@
 
 |                             입력                             |                             출력                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="E:\ROI_CROP\image\test.png" alt="test" style="zoom: 50%;" /> | <img src="E:\ROI_CROP\image\result.png" alt="result" style="zoom: 50%;" /> |
+| <img src=".\image\test.png" alt="test" style="zoom: 50%;" /> | <img src=".\image\result.png" alt="result" style="zoom: 50%;" /> |
 
 
 
