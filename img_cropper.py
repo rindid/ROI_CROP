@@ -48,4 +48,5 @@ for idx in range(len(contours2)):
 
 # show image with contours rect
 cv2.imshow('rects', cv2.pyrDown(rgb))
+cv2.imwrite(path+'\image\\result.png',rgb)
 cv2.waitKey()
